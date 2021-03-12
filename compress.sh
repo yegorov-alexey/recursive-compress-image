@@ -77,7 +77,6 @@ function main() {
     echo ""
     echo "Finished: found ${i} files"
 }
-#let "val5=50+$i"
-#echo $val5
+
 main "$1"
-#progress-bar 50 100
+
