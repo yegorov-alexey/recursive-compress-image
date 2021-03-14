@@ -8,4 +8,8 @@
 <p>That is it. Enjoy using this script and have fun ;)</p>
 <p><strong>The script replaces images with the new compressed ones, so before you run this script, backup your images!!!</strong></p>
 
-<p>compare output size with "du -h --max-depth=1 | sort -hr"</p> 
+<p>compare output size with</p>
+<p><strong>du -h --max-depth=1 | sort -hr</strong></p> 
+
+<p>copy dir for backup</p>
+<p><strong>cp -avr from to</strong></p>
